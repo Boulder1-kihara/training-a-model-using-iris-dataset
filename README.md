@@ -9,3 +9,6 @@ This project builds a machine learning model to classify Iris flowers into three
 
 ## How to Run
 You can run this notebook directly in Google Colab. 
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Boulder1-kihara/training-a-model-using-iris-dataset/blob/main/iriiis.ipynb)
